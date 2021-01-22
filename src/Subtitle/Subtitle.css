@@ -1,0 +1,15 @@
+.Subtitle{
+    font-weight: 600;
+}
+
+.Seperator{
+    height: 1px;
+    margin-top: 1rem;
+    background-color: #A4A4A4;
+}
+
+.ColorSeperator{
+    width: 150px;
+    height: 4px;
+    background-color: #084B8A;
+}

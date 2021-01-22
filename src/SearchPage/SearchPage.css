@@ -1,0 +1,8 @@
+.ResultContainer{
+    margin: 2rem 1rem 2rem 1rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: stretch;
+    padding: 0;
+}

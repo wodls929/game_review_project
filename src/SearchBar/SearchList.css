@@ -1,0 +1,5 @@
+.ListContainer{
+    background-color: white;
+    z-index: 1;
+    position: absolute;
+}
